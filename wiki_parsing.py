@@ -3,7 +3,7 @@ import re
 import os
 import queue
 
-file_path = 'C:\\Users\\Anna\\PycharmProjects\\web-services\\soup_sample\\wiki'
+file_path = 'C:\\Users\\Anna\\PycharmProjects\\wiki_parse\\soup_sample\\wiki'
 regex = re.compile(r'^/wiki/[\w\d_()]*$')
 
 
